@@ -1,0 +1,3 @@
+- Estrutura basica flex-direction 
+
+Pratica com flex direction
