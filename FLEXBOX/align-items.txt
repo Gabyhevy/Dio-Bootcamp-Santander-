@@ -1,0 +1,1 @@
+-estrutura basica e pratica com align-items
